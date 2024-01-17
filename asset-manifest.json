@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/GareTV/static/css/main.dd6f6221.css",
-    "main.js": "/GareTV/static/js/main.9ad9acbc.js",
-    "index.html": "/GareTV/index.html",
-    "main.dd6f6221.css.map": "/GareTV/static/css/main.dd6f6221.css.map",
-    "main.9ad9acbc.js.map": "/GareTV/static/js/main.9ad9acbc.js.map"
+    "main.css": "/TVgare/static/css/main.dd6f6221.css",
+    "main.js": "/TVgare/static/js/main.9ad9acbc.js",
+    "index.html": "/TVgare/index.html",
+    "main.dd6f6221.css.map": "/TVgare/static/css/main.dd6f6221.css.map",
+    "main.9ad9acbc.js.map": "/TVgare/static/js/main.9ad9acbc.js.map"
   },
   "entrypoints": [
     "static/css/main.dd6f6221.css",
