@@ -56,7 +56,7 @@ function Departures() {
           <p
             className="departure__operator"
             style={{
-              backgroundImage: `url(../images/${departure.transportationMode}.png)`,
+              backgroundImage: `url('../images/${departure.transportationMode}.png')`,
             }}
           >
             {departure.operator}

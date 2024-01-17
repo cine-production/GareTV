@@ -24,6 +24,10 @@
         grid-column-end: span 1;
         grid-row-start: 1;
         grid-row-end: span 2;
+        background-size: contain;
+        background-repeat: no-repeat;
+        margin: 0.5vh 0vh 0vh 8%;
+    
     }
 
     &__train-type {
