@@ -30,7 +30,7 @@ function Stops({ idDeparture }) {
           <li className="stops__station" key={stop}>
             {stop}
             <img
-              src="../images/yellow.jpg"
+              src="../images/TER.png"
               alt="Err"
               style={{
                 display: `${

@@ -1,5 +1,5 @@
-import propTypes from 'prop-types'
 import { NavLink } from 'react-router-dom'
+import propTypes from 'prop-types'
 import React from 'react'
 
 function TrainStations({ stations }) {
@@ -22,7 +22,7 @@ function TrainStations({ stations }) {
         className={({ isActive }) =>
           `retour__link ${isActive ? 'retour__link--active' : ''}`
         }
-        to="https://cine-production.github.io/TVgare/"
+        to="https://cine-production.github.io/GareTV/"
       >
         <span>Retour menu Pricipale</span>
       </NavLink>

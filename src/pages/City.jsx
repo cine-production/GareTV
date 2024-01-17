@@ -1,5 +1,5 @@
-import React from 'react'
 import { Outlet, useParams } from 'react-router-dom'
+import React from 'react'
 import stations from '../gares.json'
 import TrainStations from '../components/TrainStations'
 

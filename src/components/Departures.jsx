@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from 'react'
 import axios from 'axios'
+import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import { parseUTCDate, getFullMinutes, calculateDelay } from './Utils'
 import Stops from './Stops'
@@ -53,7 +53,14 @@ function Departures() {
           key={departure.id}
           className={`departure ${index % 2 ? '' : 'departure--light'}`}
         >
-          <p className="departure__operator">{departure.operator}</p>
+          <p
+            className="departure__operator"
+            style={{
+              backgroundImage: `url(../images/${departure.transportationMode}.png)`,
+            }}
+          >
+            {departure.operator}
+          </p>
           <p
             className={`departure__train-type ${
               isTimeDisplayed ? '' : 'departure__train-type--disappear'
