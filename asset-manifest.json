@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/GareTV/static/css/main.9e546eb2.css",
-    "main.js": "/GareTV/static/js/main.48efeb52.js",
+    "main.js": "/GareTV/static/js/main.10df3cc9.js",
     "index.html": "/GareTV/index.html",
     "main.9e546eb2.css.map": "/GareTV/static/css/main.9e546eb2.css.map",
-    "main.48efeb52.js.map": "/GareTV/static/js/main.48efeb52.js.map"
+    "main.10df3cc9.js.map": "/GareTV/static/js/main.10df3cc9.js.map"
   },
   "entrypoints": [
     "static/css/main.9e546eb2.css",
-    "static/js/main.48efeb52.js"
+    "static/js/main.10df3cc9.js"
   ]
 }
