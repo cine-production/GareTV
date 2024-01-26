@@ -1,3 +1,11 @@
+@font-face {
+  font-family: "Avenir";
+  font-weight: 200;
+  src: url(https://www.sncf.com/themes/contrib/sncf/themes/contrib/sncf_theme/fonts/avenir-lighter.woff) format("woff")
+}
+
+
+
 .city-card {
   width: 30%;
   height: 10rem;
@@ -19,7 +27,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: white;
     text-transform: capitalize;
     background-color: rgba(59, 59, 59, 0.5);
@@ -27,13 +35,16 @@
     height: 100%;
     border-radius: 10px;
     transition: font-size ease-in-out 0.5s;
+    text-align: center;
+    font-family:sans-serif;
+    font-weight: 700;
   }
 
   &:hover {
     cursor: pointer;
 
     .city-card__name {
-      font-size: 3rem;
+      font-size: 1.8rem;
     }
   }
 }

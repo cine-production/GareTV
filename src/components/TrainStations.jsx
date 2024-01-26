@@ -22,9 +22,16 @@ function TrainStations({ stations }) {
         className={({ isActive }) =>
           `retour__link ${isActive ? 'retour__link--active' : ''}`
         }
-        to="https://cine-production.github.io/GareTV/"
+        to="https://cine-production.github.io/GareTV"
       >
-        <span>Retour menu Pricipale</span>
+        <span>
+          Retour menu Pricipale
+          <p
+            style={{ color: `grey`, fontSize: `x-small`, textAlign: `center` }}
+          >
+            (rafraichissement obligatoire)
+          </p>
+        </span>
       </NavLink>
     </div>
   )
