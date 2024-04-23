@@ -430,6 +430,12 @@
     },
     "Saverne": {
       "Gare de Saverne": "stop_area:SNCF:87212225"
+    },
+    "Colmar": {
+      "Gare de Colmar": "stop_area:SNCF:87182014",
+      "Mésanges": "stop_area:SNCF:87402297",
+      "Saint-Joseph": "stop_area:SNCF:87181222",
+      "Herrlisheim-près-Colmar": "stop_area:SNCF:87182329"
     }
     
 
