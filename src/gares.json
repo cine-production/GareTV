@@ -1,5 +1,11 @@
 {
-
+  "Saverne": {
+      "Gare de Saverne": "stop_area:SNCF:87212225"
+    },
+    "Strasbourg": {
+      "Strasbourg ville": "stop_area:SNCF:87212027",
+      "Strasbourg Roethig": "stop_area:SNCF:87212191"
+    },
 
   "Cerbère": {
       "Gare de Cerbère": "stop_area:SNCF:87785006"
