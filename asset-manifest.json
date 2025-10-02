@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GareTV/static/css/main.68240796.css",
+    "main.js": "/GareTV/static/js/main.f1e6b03f.js",
+    "index.html": "/GareTV/index.html",
+    "main.68240796.css.map": "/GareTV/static/css/main.68240796.css.map",
+    "main.f1e6b03f.js.map": "/GareTV/static/js/main.f1e6b03f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68240796.css",
+    "static/js/main.f1e6b03f.js"
+  ]
+}
