@@ -391,8 +391,5 @@
     },
     "Lozanne": {
       "Gare de Lozanne": "stop_area:SNCF:87721423"
-    },
-    "Saint-Germain-au-Mont-d'Or": {
-      "Gare de Saint-Germain-au-Mont-d'Or": "stop_area:SNCF:87721282"
     }
   }
